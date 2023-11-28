@@ -21,6 +21,6 @@
 
 *House Targaryen*
 > Exiled house that ruled on the Iron Throne for nearly 300 years. Notable Targaryens:
-> 1. aenerys Targaryen - Stormborn, Mother of Dragons
+> 1. Daenerys Targaryen - Stormborn, Mother of Dragons
 > 2. Jon Snow - Revealed to be Aegon Targaryen, true heir to the Iron Throne
 > 3. Aemon Targaryen - Elderly Maester, Night's Watch advisor
