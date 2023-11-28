@@ -7,20 +7,20 @@
 *House Stark*
 > The House Stark of Winterfell is led by the Stark family, once Kings in the North before Aegon's conquest. Notable members include:
 > 1. Ned Stark - Lord of Winterfell, Warden of the North
-> 2. 2.Catelyn Stark - Lady of Winterfell
-> 3. 3.Arya Stark - Ned and Catelyn's younger daughter
-> 4. 4.Sansa Stark - Ned and Catelyn's elder daughter
-> 5. 5.Jon Snow - Ned Stark's bastard son
+> 2. Catelyn Stark - Lady of Winterfell
+> 3. Arya Stark - Ned and Catelyn's younger daughter
+> 4. Sansa Stark - Ned and Catelyn's elder daughter
+> 5. Jon Snow - Ned Stark's bastard son
 
 *House Lannister*
 > The House Lannister of Casterly Rock is one of the Great Houses of Seven Kingdoms. Notable members:
-> 1.Tywin Lannister - Lord of Casterly Rock, Warden of the West
-> 2.Cersei Lannister - Tywin's daughter, Queen consort
-> 3.Jaime Lannister - Tywin's eldest son, knight & Cersei's brother/lover
-> 4.Tyrion Lannister - Tywin's younger son known as "The Imp"
+> 1. Tywin Lannister - Lord of Casterly Rock, Warden of the West
+> 2. Cersei Lannister - Tywin's daughter, Queen consort
+> 3. Jaime Lannister - Tywin's eldest son, knight & Cersei's brother/lover
+> 4. Tyrion Lannister - Tywin's younger son known as "The Imp"
 
 *House Targaryen*
 > Exiled house that ruled on the Iron Throne for nearly 300 years. Notable Targaryens:
-> 1.Daenerys Targaryen - Stormborn, Mother of Dragons
-> 2.Jon Snow - Revealed to be Aegon Targaryen, true heir to the Iron Throne
-> 3.Aemon Targaryen - Elderly Maester, Night's Watch advisor
+> 1. aenerys Targaryen - Stormborn, Mother of Dragons
+> 2. Jon Snow - Revealed to be Aegon Targaryen, true heir to the Iron Throne
+> 3. Aemon Targaryen - Elderly Maester, Night's Watch advisor
